@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Calc
+comment0.text=\r\n\ int\ \uD0C0\uC785\uC758\ a,b\ \uD544\uB4DC,\ setValue(),calculate()\ \uBA54\uC18C\uB4DC\uB97C\ \uD3EC\uD568\uD558\uB294\ \uCD94\uC0C1\uD074\uB798\uC2A4\ \r\n\r\n\ @author\ (2014671038\ \uAE40\uC9C4\uC218,\ 2018315053\ \uD14C\uB77C\uC624\uCE74\ \uC720\uC774\uCE74)\r\n\ @version\ (2019.06.09)\r\n
+comment1.params=a\ b
+comment1.target=void\ setValue(int,\ int)
+comment2.params=
+comment2.target=int\ calculate()
+numComments=3
