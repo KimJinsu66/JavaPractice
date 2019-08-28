@@ -1,0 +1,21 @@
+
+/**
+ * 여기에 ValuePassing 클래스 설명을 작성하십시오.
+ * 
+ * @author (작성자 이름) 
+ * @version (버전번호나 날짜)
+ */
+public class ValuePassing
+{
+    static void increase(int m){
+        m = m+1 ; 
+    
+    }
+    
+    public static void main(String args[]){
+        int n = 10;
+        
+        increase(n);
+        System.out.println(n);
+    }
+}
